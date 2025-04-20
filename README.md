@@ -51,7 +51,7 @@ Your task is to employ Power BI to analyze these banking datasets, aiming to unr
 5. Visualization of Transaction and Account Data
 6. Key Insights and Data Storytelling
 
-### **Key Insights (Example Placeholder)**
+### **Key Insights**
 
 1. Checking accounts exhibit the highest average balance.
 2. Higher credit scores are generally associated with lower loan amounts.
@@ -59,7 +59,7 @@ Your task is to employ Power BI to analyze these banking datasets, aiming to unr
 4. Branch XYZ handles the highest transaction volume.
 5. Employment sector and city of residence influence transaction behavior and account types.
 
-### **Key Insights**
+### **Tools Used**
 1. Tools Used
 2. Power BI for data modeling and visualization
 3. DAX for advanced analytics
